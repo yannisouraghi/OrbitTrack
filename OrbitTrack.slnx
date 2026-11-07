@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="OrbitTrack.App/OrbitTrack.App.csproj" />
+  <Project Path="OrbitTrack.Core/OrbitTrack.Core.csproj" />
+</Solution>
